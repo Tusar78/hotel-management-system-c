@@ -92,9 +92,10 @@ int main(){     // MAIN FUNCTION
 	printf("\n");
 	printf("\n");
 	printf("\n");
-	printf("\t   *-<-><->-<--->-<-><->-*\n");
-	printf("\t   * WELCOME TO HOTEL BD *\n");
-	printf("\t   *-<-><->-<--->-<-><->-*\n");
+	printf("\t   *-<-><->-<--->-<-><->-<->-*\n");
+	printf("\t   * WELCOME TO OUR SOLUTION *\n");
+	printf("\t   * HOTEL MANAGEMENT SYSTEM *\n");
+	printf("\t   *-<-><->-<--->-<-><->-<->-*\n");
 	printf("\n");
 	printf("\t   -> - + - + - + - <-\n");
 	printf("\t   -> Presented By  <-\n");
